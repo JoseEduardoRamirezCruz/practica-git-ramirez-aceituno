@@ -1,0 +1,5 @@
+GitHub es una plataforma que permite almacenar y compartir proyectos de programación de forma colaborativa.
+Facilita el control de versiones mediante Git, ayudando a los desarrolladores a trabajar en equipo sin perder cambios importantes.
+Además, permite revisar código, proponer mejoras y documentar proyectos de manera ordenada.
+Es una herramienta esencial en el mundo del desarrollo de software moderno.
+Gracias a GitHub, aprender y colaborar en proyectos tecnológicos es más accesible para todos. Mi primera prueba
